@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Panha-user
 - 👀 I’m interested in various fields related to codes.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, and front end web
+- .
 - 💞️ I’m looking to collaborate on Webdevelopment.
 - 📫 How to reach me: lolznha72@gmail.com
 - 😄 Pronouns: He/him
