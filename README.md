@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Panha-user
+- 👋 Hi, I’m @Panha
 - 👀 I’m interested in various fields related to codes.
 - 🌱 I’m currently learning Python, and front end web
 - .
